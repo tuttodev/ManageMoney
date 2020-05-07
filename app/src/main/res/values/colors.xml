@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD949</color>
+    <color name="colorPrimaryDark">#c8a804</color>
+    <color name="colorAccent">#689f38</color>
+
+    <color name="greenFinancialActivity">#3EFF00</color>
+    <color name="redFinancialActivity">#FF2E00</color>
+</resources>

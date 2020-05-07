@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ManageMoney</string>
+    <string name="btnAddFinancialActivity">Registrar Ya!!</string>
+    <string name="swicthIsEntry">Es una entrada</string>
+    <string name="hintEditTextValue">Valor</string>
+    <string name="hintEditTextDate">Fecha</string>
+    <string name="hintDescription">Descripción</string>
+</resources>
